@@ -1,0 +1,2 @@
+# java
+Not-Ortalamasi-Hesaplama
