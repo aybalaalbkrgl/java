@@ -1,2 +1,2 @@
-# not ortalaması hesaplama
-Not-Ortalamasi-Hesaplama
+# dönem geçti geçmedi hesaplama
+dönem-geçme-Hesaplama
